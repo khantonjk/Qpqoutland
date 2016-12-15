@@ -1,0 +1,68 @@
+/*Importerat från google fonts*/
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+
+
+/*THIS IS THE ONE*/
+
+
+body {
+    /*Detta är bakrundsbilden dess storlek osv*/
+    background-color: cornflowerblue;
+    background-image: url(../bilder/qpqbakgrund.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top center initial;
+}
+#wrapper {
+    font-family: 'PT Sans', sans-serif;
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#middlediv {
+}
+#middlediv a {
+    color: inherit;
+    text-decoration: none;
+}
+.hov1 {
+    padding: 0px;
+    list-style: none;
+    background-color: #4682B4;
+    height: 50px;
+    border-radius: 25px;
+    border: 1px solid;
+    line-height: 50px;
+    transition: all ease-in-out .2s;
+}
+.hov1:hover {
+    background-color: #008B8B;
+}
+.divs {
+    width: 15%;
+    text-align:center;
+    min-width: 100px;
+}
+#div1 {
+   margin-left: auto;
+   margin-right: auto;  
+   margin-top: 38%;
+}
+#div2 {
+    margin-left: auto; 
+    margin-right: auto;   
+    margin-top: 0px;
+}
+
+#div3 {
+   margin-top: 0px;
+   margin-left: auto;
+   margin-right: auto;
+}
+footer {
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 130px;
+    float: left;
+    text-align: end;
+}
