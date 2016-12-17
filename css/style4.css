@@ -1,0 +1,59 @@
+/*Importerat från google fonts*/
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+/*THIS IS THE ONE*/
+
+body {
+    font-family: 'Karla', sans-serif;
+    background-image: url(../bilder/wow_tw.jpg);
+    background-color: darkslateblue;
+    text-align: center;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+#h1div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+h1 {
+    color: white;
+}
+.bf {
+    color: white;
+    transition: all ease-in-out .2s;
+}
+#holderdiv {
+    margin-top: 40px;
+    width: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bf:hover {
+    color: deeppink;
+}
+#divb {
+    /*float: left;*/
+    margin-top: -35px;
+    width: 40px;
+
+}
+#h2div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+#wrapper {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    border: 1px solid;
+    border-color: white;
+    border-radius: 20px;
+    background-color: white;    
+    color: black;
+    padding: 1px;
+}
