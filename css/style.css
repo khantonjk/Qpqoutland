@@ -24,9 +24,15 @@ h1 {
 p {
     color: white;
     text-align: center;
+    
+}
+#raidtimes {
+    color: springgreen;
+}
+.plink {
     transition: all ease-in-out .2s;
 }
-p:hover {
+.plink:hover {
     color: deeppink;
 }
 #wrapper {
