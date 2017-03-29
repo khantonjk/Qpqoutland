@@ -1,4 +1,4 @@
-/*Importerat från google fonts*/
+/*Importerat frÃ¥n google fonts*/
 @import url('https://fonts.googleapis.com/css?family=Karla');
 
 /*THIS IS THE ONE*/
@@ -27,7 +27,7 @@ p {
     
 }
 #raidtimes {
-    color: springgreen;
+    color: #FF4000; 
 }
 .plink {
     transition: all ease-in-out .2s;
