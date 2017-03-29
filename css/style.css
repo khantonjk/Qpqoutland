@@ -27,7 +27,7 @@ p {
     
 }
 #raidtimes {
-    color: #FF4000; 
+    color: orange; 
 }
 .plink {
     transition: all ease-in-out .2s;
