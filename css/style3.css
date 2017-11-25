@@ -1,11 +1,11 @@
-/*Importerat från google fonts*/
+/*Importerat frÃ¥n google fonts*/
 @import url('https://fonts.googleapis.com/css?family=Karla');
 
 /*THIS IS THE ONE*/
 
 body {
     font-family: 'Karla', sans-serif;
-    background-image: url(../bilder/wow_tw.jpg);
+    background-image: url(../bilder/maxresdefault.jpg);
     background-color: darkslateblue;
     text-align: center;
 }
